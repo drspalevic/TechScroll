@@ -69,8 +69,6 @@ body {
     padding: 30px;
   }
 
-  @media(max-width: 768px) {
-      .navbar {
-          overflow: hidden !important;
-      }
+  .container-nav {
+      width: 50% !important;
   }
