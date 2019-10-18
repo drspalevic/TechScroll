@@ -71,7 +71,10 @@ body {
   }
 
   @media(max-width: 576px) {
-    
+    body {
+      box-sizing: border-box !important;
+    }
+
     .info-left img {
       width: 90vw !important;
       
