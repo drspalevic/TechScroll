@@ -71,7 +71,8 @@ body {
   }
 
   @media(max-width: 576px) {
-    .navbar-expend-sm {
-      width: 576px;
+    .navbar-brand {
+      display: none !important;
+    }
     }
     
