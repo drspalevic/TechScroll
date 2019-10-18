@@ -71,6 +71,6 @@ body {
 
   @media(max-width: 768px) {
       .navbar {
-          overflow-x: hidden !important;
+          overflow: hidden !important;
       }
   }
