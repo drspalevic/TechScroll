@@ -71,8 +71,7 @@ body {
   }
 
   @media(max-width: 576px) {
-    body {
+    .navbar-expend-sm {
       width: 576px;
-      overflow-x: hidden;
     }
     
