@@ -70,8 +70,9 @@ body {
     padding: 30px;
   }
 
-  @media(max-width: 768px) {
+  @media(max-width: 576px) {
     body {
+      width: 576px;
       overflow-x: hidden;
     }
     
