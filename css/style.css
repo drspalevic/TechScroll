@@ -75,6 +75,9 @@ body {
       box-sizing: border-box !important;
     }
 
+    .navbar {
+      position: fixed !important;
+    }
     
     
     .info-left img {
