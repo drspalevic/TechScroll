@@ -71,20 +71,10 @@ body {
   }
 
   @media(max-width: 576px) {
-    body {
-      box-sizing: border-box !important;
-    }
-    /* .navbar-brand {
-      display: none !important;
-    } */
-
-    .info-left {
-      border: 5px solid #000;
-    }
-
+    
     .info-left img {
       width: 90vw !important;
-      /* height: 100vh !important; */
+      
     }
     }
     
